@@ -3,7 +3,7 @@ A research-oriented developer with an eye on deeply technical elements of **zero
 I have built interesting things you may want to look at, some of them being:
 
 1. Zero-knowledge overlay for cometBFT (earlier tendermint) to make consensus zk-SNARKs friendly. Checkout **SnarkMint**.
-2. In-code implementation of many zero-knowledge elements: Checkout the "research" repo
+2. In-code implementation of many zero-knowledge elements: Checkout the [CryptographyResearch](https://github.com/supragya/CryptographyResearch) repository
 3. **EVM indexer for detecting MEV** with full high availability support
 4. Tendermint P2P sniffer.
 
