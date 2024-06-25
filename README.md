@@ -8,4 +8,4 @@ I have built interesting things you may want to look at, some of them being:
 
 These days, I've been coding, mostly in 🦀 Rust, and practicing some abstract linear algebra ✎ᝰ. on the side.
 
-📜 Want to have a look at my **resume** or reach me? You can find it [here](https://drive.google.com/file/d/1Qm0vPE6coZgVxpYVZVTVWc5HOe3uhcO5/view?usp=sharing).
+📜 Want to have a look at my **resume** or reach me? You can find it [here](https://drive.google.com/file/d/1sngyBEDdJYcBvYm8UhZwtCRAcl8WmsvT/view?usp=sharing).
