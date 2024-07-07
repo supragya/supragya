@@ -1,4 +1,4 @@
-Blockchain dev with interest in **ZK** & **Distributed Consensus**
+Blockchain protocol dev with interest in **ZK** & **Distributed Consensus**.
 
 Browse a few interesting things:
 
