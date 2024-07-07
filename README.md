@@ -4,7 +4,7 @@ Browse a few interesting things:
 
 - A toy zero-knowledge virtual machine from scratch: see [PixieZKVM](https://github.com/supragya/PixieZKVM)
 - Some zk / cryptography primitives and circuits: see [CryptographyResearch](https://github.com/supragya/CryptographyResearch) 
-- Ethereum index with HA, DEX pricing, powering blockpour.com for 10+ chains, see [EtherScope](https://github.com/supragya/EtherScope) 
+- Ethereum index with HA, DEX pricing, powering _www.blockpour.com_ for 10+ chains, see [EtherScope](https://github.com/supragya/EtherScope) 
 - Fake P2P packet sniffing cometBFT client: see [TendermintConnector](https://github.com/supragya/TendermintConnector)
 
 Some other repositories of interest would be [HLang](https://github.com/supragya/HLang), [gograph](https://github.com/supragya/gograph), [WireHairExperiments](https://github.com/supragya/ErasureCodes), [DirSync](https://github.com/supragya/DirectorySync)
