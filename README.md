@@ -5,7 +5,9 @@ Browse a few interesting things:
 - A toy zero-knowledge virtual machine from scratch: see [PixieZKVM](https://github.com/supragya/PixieZKVM)
 - Some zk / cryptography primitives and circuits: see [CryptographyResearch](https://github.com/supragya/CryptographyResearch) 
 - Ethereum index with HA, DEX pricing, runs on 14 chains, see [EtherScope](https://github.com/supragya/EtherScope) 
-- Fake P2P packet sniffing cometBFT client: see [TendermintConnector](https://github.com/supragya/TendermintConnector) 
+- Fake P2P packet sniffing cometBFT client: see [TendermintConnector](https://github.com/supragya/TendermintConnector)
+
+Some other repositories of interest would be [HLang](https://github.com/supragya/HLang), [gograph](https://github.com/supragya/gograph), [WireHairExperiments](https://github.com/supragya/ErasureCodes), [DirSync](https://github.com/supragya/DirectorySync)
 
 These days, I've been coding, mostly in 🦀 Rust, and practicing some abstract math ✎ᝰ. on the side.
 
