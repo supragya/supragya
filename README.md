@@ -18,4 +18,4 @@ These days, I've been coding, mostly in 🦀 Rust, and practicing some abstract 
 
 📜 Want to have a look at my **resume** or reach me? You can find it [here](https://drive.google.com/file/d/1sngyBEDdJYcBvYm8UhZwtCRAcl8WmsvT/view?usp=sharing).
 
-Shoot an email!
+Shoot an email (see resume for the real one!)!
