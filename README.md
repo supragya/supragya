@@ -7,7 +7,7 @@ Browse a few interesting things:
 
 <img src="https://cdn-icons-png.freepik.com/512/9118/9118415.png" alt="CPU" width="25" style="display:inline;"/> A few zero-knowledge / cryptography primitives and circuits: see [CryptographyResearch](https://github.com/supragya/CryptographyResearch) 
 
-<img src="https://altcoinsbox.com/wp-content/uploads/2023/01/etherscan-logo.jpg" alt="CPU" width="25" style="display:inline;"/> Ethereum index with HA, DEX pricing, powering _www.blockpour.com_ for 10+ chains, see [EtherScope](https://github.com/supragya/EtherScope) 
+<img src="https://altcoinsbox.com/wp-content/uploads/2023/01/etherscan-logo.jpg" alt="CPU" width="25" style="display:inline;"/> Ethereum indexer with HA, DEX pricing, powering _www.blockpour.com_ for 10+ chains, see [EtherScope](https://github.com/supragya/EtherScope) 
 
 <img src="https://cdn3d.iconscout.com/3d/premium/thumb/peer-to-peer-11184095-8992209.png" alt="CPU" width="25" style="display:inline;"/> P2P packet sniffing cometBFT client, useful for P2P applications: see [TendermintConnector](https://github.com/supragya/TendermintConnector)
 
