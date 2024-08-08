@@ -1,4 +1,4 @@
-Blockchain protocol dev with interest in **ZK** & **Distributed Consensus**.
+Research Engineer with interest in **ZK** & **Distributed Consensus**.
 
 <hr>
 Browse a few interesting things:
