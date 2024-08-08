@@ -3,7 +3,7 @@ Blockchain protocol dev with interest in **ZK** & **Distributed Consensus**.
 <hr>
 Browse a few interesting things:
 
-<img src="https://static.vecteezy.com/system/resources/previews/013/091/374/original/processor-3d-illustration-icon-png.png" alt="CPU" width="28" style="display:inline;"/> A toy zero-knowledge virtual machine (proves computation without revealing it) from scratch: see [PixieZKVM](https://github.com/supragya/PixieZKVM).
+<img src="https://static.vecteezy.com/system/resources/previews/013/091/374/original/processor-3d-illustration-icon-png.png" alt="CPU" width="28" style="display:inline;"/> A zero-knowledge virtual machine with conditional ZK proofs and proofs aggregation: see [MozakVM](https://github.com/supragya/mozak-vm).
 
 <img src="https://cdn-icons-png.freepik.com/512/9118/9118415.png" alt="CPU" width="25" style="display:inline;"/> A few zero-knowledge / cryptography primitives and circuits: see [CryptographyResearch](https://github.com/supragya/CryptographyResearch) 
 
