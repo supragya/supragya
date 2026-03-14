@@ -1,4 +1,4 @@
-Research Engineer with interest in **ZK** & **Distributed Consensus**.
+Rust Systems Engineer with interest in **ZK**, **Protocols** & **Distributed Consensus**. Claude is my intern!
 
 <hr>
 Browse a few interesting things:
